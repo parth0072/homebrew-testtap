@@ -5,7 +5,7 @@ class Commandlinetool < Formula
   desc "Command line tool for mac with brew package manager"
   homepage ""
   url "https://github.com/parth0072/commandLineTool/archive/2.tar.gz"
-  sha256 "78d1a97266e54fc3ccf5844faba2c0da16e514e9729d7a9eb00329acbeecf399"
+#   sha256 "78d1a97266e54fc3ccf5844faba2c0da16e514e9729d7a9eb00329acbeecf399"
   # depends_on "cmake" => :build
 
   def install
