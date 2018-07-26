@@ -10,7 +10,7 @@ class Commandlinetool < Formula
 
   def install
 #   bin.install "test/test"
-   bin.Run "test/test"
+   bin.install "test/test"
   end
 
   test do
