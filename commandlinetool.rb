@@ -9,7 +9,8 @@ class Commandlinetool < Formula
   # depends_on "cmake" => :build
 
   def install
-   bin.install "test/test"
+#   bin.install "test/test"
+   bin.Run "test/test"
   end
 
   test do
